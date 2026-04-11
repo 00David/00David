@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**00David/00David** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is David and I'm currently studying software engineering at Sorbonne University, France.
 
-Here are some ideas to get you started:
+Here are some of my main projects done so far !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## First master year (2025-2026)
+
+### ImageJ/Fiji lipid droplets characterization plugin
+
+### Welzl algorithm implementation
+
+### Adaptive Huffman coding implementation
+
+## Third bachelor year (2024-2025)
+
+### Web application containerization
+
+### Organiz’Asso – Web-Based Discussion Forum
+
+## Second bachelor year (2023-2024)
+
+### Electoral simulation modeling
+
+## First bachelor year (2022-2023)
+
+### Epidemic spread simulation modeling
+
+### A "Google translate" between morse and french languages
