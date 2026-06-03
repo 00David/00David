@@ -8,6 +8,8 @@ Here are some of my main projects done so far !
 
 ### ImageJ/Fiji lipid droplets characterization plugin
 
+[GitHub repository](https://github.com/FattaccioliLab/lipid-droplets-characterization)
+
 Plugin using existing ImageJ tools to allow completing a whole treatment pipeline on droplet images.
 
 Technologies used:
@@ -22,8 +24,50 @@ Main features:
 - Morphological operations on a binary mask.
 - Particle analysis, with .csv and diagram exports.
 - Different interactive tools to visualize and help at each workflow step.
+- Parameters export/import as JSON.
+- Batch mode.
 
-![Work in progress](assets/work-in-progress.png)
+![demo-ldc](assets/m1/demo-ldc.gif)
+
+### ISSue – Daily quizzes generated from the real-time position of the ISS
+
+[GitHub repository](https://github.com/00David/ISSue)
+
+ISSue is a web application that dynamically generates a daily quiz inspired by the exact position of the International Space Station at the time of generation (on average around 5 AM UTC), each day.  
+
+Technologies used:
+- **React + tailwind CSS** (frontend)
+- **Go** (backend)
+- **MongoDB** (database)
+- **GitHub Actions** (daily quiz generation request)
+
+Main features:
+ - Quiz : Take daily ISS-based quizzes, post results with comments and ratings.
+ - Map & List : Browse all quizzes via a filterable list or an interactive world map.
+ - Leaderboard : Global ranking of users by total score.
+ - User accounts : Register, log in, view other profiles, and manage your own.
+
+![demo-issue](assets/m1/demo-issue.gif)
+
+### A space-shooter inspired by the game "Xenon 2: Megablast"
+
+[GitHub repository](https://github.com/00David/Xenon-2-Megablast)
+(the demonstration gif might take some time to load)
+
+A *space-shooter* of the *shoot'em up* type developed in Haskell, 
+inspired by the game [Xenon 2: Megablast](https://en.wikipedia.org/wiki/Xenon_2:_Megablast).  
+
+Technologies used:
+- **Haskell** + Gloss graphical library
+
+Main features:
+- 1 or 2 player simultaneous mode.
+- Unlimited procedural generation of enemy waves and walls.
+- Lives and temporary invincibility system.
+- Random bonus system modifying shots.
+
+(I use WSL so I sometimes experience freezes, which is not the case with native Linux)
+![demo-xenon](assets/m1/demo-xenon.gif)
 
 ### Welzl algorithm implementation
 
